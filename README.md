@@ -6,7 +6,7 @@ Throughout my career managing digital projects, I've always been driven by a dee
 * 🐍 **Data Analytics & Python Projects**
   *  National Health Service (NHS)
   *  Turtle Games
-* 📊 **Data Analytics & Power BI Dashboard Projects**
+* <svg role="img" viewBox="0 0 24 24">...</svg> **Data Analytics & Power BI Dashboard Projects**
   *  2Market
  
 * 🌐 **Web Development:**
