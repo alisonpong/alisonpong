@@ -6,6 +6,8 @@ Throughout my career managing digital projects, I've always been driven by a dee
 * 🐍 **Data Analytics & Python Projects**
   *  National Health Service (NHS)
   *  Turtle Games
+* 📊 **Data Analytics & Power BI Dashboard Development Projects**
+  *  2Market
  
 * 🌐 **Web Development:**
   * YelpCamp
